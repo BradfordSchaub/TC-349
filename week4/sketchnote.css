@@ -1,0 +1,35 @@
+body {
+  background: #ccc;
+  border-top: 5px solid #424242;
+  margin: 0;
+  font-family: "Helvetica", sans-sariff;
+  line-height: 1.4em;
+}
+
+img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+
+h1, h2, h3 {
+	margin: 0;
+}
+h1 {
+	background:#aaa;
+	padding: 20px 15px;
+	color: #fff;
+	text-shadow: 1px 1px 2px #424242;
+}
+
+h2 {
+	padding: 20px 15px;
+	color: blue;
+	text-shadow: 1px 1px 2px #424242;
+}
+
+
+
+
+
+
